@@ -16,4 +16,5 @@ jobs:
            - mvn --version
            - ant -version
            - gradle --version 
+           - java -version 
            
